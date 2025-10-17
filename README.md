@@ -1,5 +1,5 @@
 # gandhimao
-Hello World!!! My Name Gandhii
+Hello World!!! My Name Gandhi!!!
 
 ![Header](img/github-header-banner.png)
 
